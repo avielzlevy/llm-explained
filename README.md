@@ -54,7 +54,7 @@ It demonstrates three phenomena that researchers have documented in real LLMs: c
 
 ```bash
 # Clone and install
-git clone https://github.com/your-username/llm-explained.git
+git clone https://github.com/avielzlevy/llm-explained.git
 cd llm-explained
 npm install
 
